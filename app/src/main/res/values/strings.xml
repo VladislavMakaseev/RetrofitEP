@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">RetrofitEP</string>
+
+    <!--Errors-->
+    <string name="error_unknown">Unknown error</string>
 </resources>
